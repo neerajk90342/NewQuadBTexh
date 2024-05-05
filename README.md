@@ -7,6 +7,8 @@ npm create-react-app my-app
 #Run 
 npm run
 
+http://localhost:3000/
+
 
 
 
